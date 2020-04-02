@@ -1,2 +1,2 @@
 # Python-Scripts
-Basic scripts written in Python
+Basic scripts written in Python 3.x.x
